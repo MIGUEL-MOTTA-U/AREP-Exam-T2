@@ -40,3 +40,9 @@ It handled through the active server:
 
 It handled through the passive server because I stopped the active server:
 ![](assets/img_6.png)
+
+### Video demostration
+
+[Link](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/miguel_motta-u_mail_escuelaing_edu_co/EekABMSqQI5MrayZDw5SwPABBqKFmG_pOT6kdF125qMaPg?e=wyZ5Lc)
+
+https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/miguel_motta-u_mail_escuelaing_edu_co/EekABMSqQI5MrayZDw5SwPABBqKFmG_pOT6kdF125qMaPg?e=wyZ5Lc
